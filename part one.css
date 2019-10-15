@@ -9,17 +9,23 @@
 } 
 
 .img{
-	width: 75%;
+	width: 50%;
 	height: auto;
 	margin-left: auto;
     margin-right: auto;
 	
 } 
 
+img{
+	width: 100%
+}
+
 .text{
-	width: 75%;
+	width: 50%;
 	height: auto;
 	margin-left: auto;
     margin-right: auto;
+	margin-top: 25px;
+	font-family: "Helvetica", "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", "Helvetica", "Arial", "sans-serif"
 	
 } 
